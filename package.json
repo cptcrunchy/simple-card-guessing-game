@@ -1,0 +1,28 @@
+{
+  "name": "simple-card-guessing-game",
+  "version": "1.0.0",
+  "description": "This is a simple card guessing game",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass -w -C -t compressed sass:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cptcrunchy/simple-card-guessing-game.git"
+  },
+  "keywords": [
+    "html",
+    "javascript",
+    "materializecss"
+  ],
+  "author": "Jason Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cptcrunchy/simple-card-guessing-game/issues"
+  },
+  "homepage": "https://github.com/cptcrunchy/simple-card-guessing-game#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
